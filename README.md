@@ -16,7 +16,7 @@ The **PBT e-Reporting System** is a digital platform designed to streamline and 
 - **Frontend:** HTML, CSS, JavaScript 
 - **Database:** MySQL / PostgreSQL
 - **Version Control:** Git and GitHub
-- **Development Environment:** Visual Studio Code
+- **Development Environment:** Vs Code
 
 ## Setup Instructions
 Follow these steps to set up and run the PBT e-Reporting System on your local machine:
